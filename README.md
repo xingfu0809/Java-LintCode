@@ -5,8 +5,8 @@
 
 | name                                                | title                                      |
 | :-------------------------------------------------- | :----------------------------------------- |
-| [find-eventual-safe-states](找到最终的安全状态)        | 找到最终的安全状态                      |
-| [asteroid-collision](小行星的碰撞)                  | 小行星的碰撞                                     |
-| [minimum-swaps-to-make-sequences-increasing](使序列递增的最小交换次数)                | 使序列递增的最小交换次数                                     |
+| [find-eventual-safe-states](master/code/找到最终的安全状态.md)        | 找到最终的安全状态                      |
+| [asteroid-collision](master/code/小行星的碰撞.md)                  | 小行星的碰撞                                     |
+| [minimum-swaps-to-make-sequences-increasing](master/code/使序列递增的最小交换次数.md)                | 使序列递增的最小交换次数                                     |
 
 
