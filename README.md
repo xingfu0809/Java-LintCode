@@ -9,7 +9,7 @@
 
 
 |name| title|
-|:-----  |-----                           |
+|:-----  |:-----                           |
 
 |[find-eventual-safe-states][找到最终的安全状态] | 找到最终的安全状态|
 |[asteroid-collision][小行星的碰撞] | 小行星的碰撞|
