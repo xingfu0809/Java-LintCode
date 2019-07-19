@@ -8,5 +8,14 @@
 | [find-eventual-safe-states](code/找到最终的安全状态.md)        | 找到最终的安全状态                      |
 | [asteroid-collision](code/小行星的碰撞.md)                  | 小行星的碰撞                                     |
 | [minimum-swaps-to-make-sequences-increasing](code/使序列递增的最小交换次数.md)                | 使序列递增的最小交换次数                                     |
+| [find-all-duplicates-in-an-array](code/查找数组中的所有重复项.md)                | 查找数组中的所有重复项                                     |
+| [array-nesting](code/数组嵌套.md)                | 数组嵌套                                     |
+| [integer-to-roman](code/整数转罗马数字.md)                | 整数转罗马数字                                     |
+| [missing-number](code/寻找缺失的数.md)                | 寻找缺失的数                                     |
+| [flatten-2d-vector](code/摊平二维向量.md)                | 摊平二维向量                                     |
+| [intersection-of-two-linked-lists](code/两个链表的交叉.md)                | 两个链表的交叉                                     |
+| [ugly-number-ii](code/丑数II.md)                | 丑数II                                     |
+| [permutation-in-string](code/字符串的排列.md)                | 字符串的排列                                     |
+| [number-of-subarrays-with-bounded-maximum](code/最大值在界内的子数组个数.md)                | 最大值在界内的子数组个数                                     |
 
 
