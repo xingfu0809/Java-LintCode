@@ -17,5 +17,7 @@
 | [ugly-number-ii](code/丑数II.md)                | 丑数II                                     |
 | [permutation-in-string](code/字符串的排列.md)                | 字符串的排列                                     |
 | [number-of-subarrays-with-bounded-maximum](code/最大值在界内的子数组个数.md)                | 最大值在界内的子数组个数                                     |
+| [majority-element-ii](code/主元素II.md)                | 主元素II                                     |
+| [number-of-matching-subsequences](code/满足要求的子串个数.md)                | 满足要求的子串个数                                     |
 
 
