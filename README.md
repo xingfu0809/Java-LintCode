@@ -19,5 +19,6 @@
 | [number-of-subarrays-with-bounded-maximum](code/最大值在界内的子数组个数.md)                | 最大值在界内的子数组个数                                     |
 | [majority-element-ii](code/主元素II.md)                | 主元素II                                     |
 | [number-of-matching-subsequences](code/满足要求的子串个数.md)                | 满足要求的子串个数                                     |
+| [domino-and-tromino-tiling](code/多米诺和三格骨牌铺瓦问题.md)                | 多米诺和三格骨牌铺瓦问题                                     |
 
 
