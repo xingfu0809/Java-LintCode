@@ -21,5 +21,6 @@
 | [number-of-matching-subsequences](code/满足要求的子串个数.md)                | 满足要求的子串个数                                     |
 | [domino-and-tromino-tiling](code/多米诺和三格骨牌铺瓦问题.md)                | 多米诺和三格骨牌铺瓦问题                                     |
 | [escape-the-ghosts](code/逃离幽灵.md)                | 逃离幽灵                                     |
+| [cheapest-flights-within-k-stops](code/寻找最便宜的航行旅途.md)                | 寻找最便宜的航行旅途                                     |
 
 
