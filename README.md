@@ -9,7 +9,7 @@
 | [asteroid-collision](code/小行星的碰撞.md)                  | 小行星的碰撞                                     |
 | [minimum-swaps-to-make-sequences-increasing](code/使序列递增的最小交换次数.md)                | 使序列递增的最小交换次数                                     |
 | [find-all-duplicates-in-an-array](code/查找数组中的所有重复项.md)                | 查找数组中的所有重复项                                     |
-| [array-nesting](code/数组嵌套.md)                | 数组嵌套                                     |
+| [array-nesting](code/数组的嵌套.md)                | 数组的嵌套                                     |
 | [integer-to-roman](code/整数转罗马数字.md)                | 整数转罗马数字                                     |
 | [missing-number](code/寻找缺失的数.md)                | 寻找缺失的数                                     |
 | [flatten-2d-vector](code/摊平二维向量.md)                | 摊平二维向量                                     |
