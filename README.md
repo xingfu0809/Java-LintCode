@@ -22,5 +22,7 @@
 | [domino-and-tromino-tiling](code/多米诺和三格骨牌铺瓦问题.md)                | 多米诺和三格骨牌铺瓦问题                                     |
 | [escape-the-ghosts](code/逃离幽灵.md)                | 逃离幽灵                                     |
 | [cheapest-flights-within-k-stops](code/寻找最便宜的航行旅途.md)                | 寻找最便宜的航行旅途                                     |
+| [is-graph-bipartite](code/图可以被二分么？.md)                | 图可以被二分么？                                     |
+| [largest-plus-sign](code/最大的加号.md)                | 最大的加号                                     |
 
 
