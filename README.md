@@ -24,5 +24,8 @@
 | [cheapest-flights-within-k-stops](code/寻找最便宜的航行旅途.md)                | 寻找最便宜的航行旅途                                     |
 | [is-graph-bipartite](code/图可以被二分么？.md)                | 图可以被二分么？                                     |
 | [largest-plus-sign](code/最大的加号.md)                | 最大的加号                                     |
+| [partition-labels](code/分割标签.md)                | 分割标签                                     |
+| [shortest-completing-word](code/最短的能“拼成”的单词.md)                | 最短的能“拼成”的单词                                     |
+| [verify-preorder-serialization-of-a-binary-tree](code/验证二叉树的前序序列化.md)                | 验证二叉树的前序序列化                                     |
 
 
