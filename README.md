@@ -27,5 +27,7 @@
 | [partition-labels](code/分割标签.md)                | 分割标签                                     |
 | [shortest-completing-word](code/最短的能“拼成”的单词.md)                | 最短的能“拼成”的单词                                     |
 | [verify-preorder-serialization-of-a-binary-tree](code/验证二叉树的前序序列化.md)                | 验证二叉树的前序序列化                                     |
+| [remove-comments](code/删除注释.md)                | 删除注释                                     |
+| [knight-probability-in-chessboard](code/“马”在棋盘上的概率.md)                | “马”在棋盘上的概率                                     |
 
 
