@@ -29,5 +29,8 @@
 | [verify-preorder-serialization-of-a-binary-tree](code/验证二叉树的前序序列化.md)                | 验证二叉树的前序序列化                                     |
 | [remove-comments](code/删除注释.md)                | 删除注释                                     |
 | [knight-probability-in-chessboard](code/“马”在棋盘上的概率.md)                | “马”在棋盘上的概率                                     |
+| [redundant-connection](code/冗余的连接.md)                | 冗余的连接                                     |
+| [valid-parenthesis-string](code/有效的括号字符串.md)                | 有效的括号字符串                                     |
+| [map-sum-pairs](code/映射配对之和.md)                | 映射配对之和                                     |
 
 
