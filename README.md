@@ -32,5 +32,16 @@
 | [redundant-connection](code/冗余的连接.md)                | 冗余的连接                                     |
 | [valid-parenthesis-string](code/有效的括号字符串.md)                | 有效的括号字符串                                     |
 | [map-sum-pairs](code/映射配对之和.md)                | 映射配对之和                                     |
+| [maximum-swap](code/最大的交换.md)                | 最大的交换                                     |
+| [split-array-into-subsequences-containing-continuous-elements](code/将数组拆分成含有连续元素的子序列.md)                | 将数组拆分成含有连续元素的子序列                                     |
+| [print-binary-tree](code/输出二叉树.md)                | 输出二叉树                                     |
+| [replace-words](code/单词替换.md)                | 单词替换                                     |
+| [dota2-senate](code/Dota2参议院.md)                | Dota2参议院                                     |
+| [solve-the-equation](code/解方程.md)                | 解方程                                    |
+| [shopping-offers](code/商品促销.md)                | 商品促销                                    |
+| [shopping-offers](code/商品促销.md)                | 商品促销                                    |
+| [add-one-row-to-tree](code/在树中添加一行.md)                | 在树中添加一行                                    |
+| [optimal-division](code/最优除法.md)                | 最优除法                                    |
+
 
 
