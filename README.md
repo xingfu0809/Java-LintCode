@@ -42,6 +42,12 @@
 | [shopping-offers](code/商品促销.md)                | 商品促销                                    |
 | [add-one-row-to-tree](code/在树中添加一行.md)                | 在树中添加一行                                    |
 | [optimal-division](code/最优除法.md)                | 最优除法                                    |
+| [valid-triangle-number](code/合法的三角数.md)                | 合法的三角数                                    |
+| [find-duplicate-file-in-system](code/在系统中找到重复文件.md)                | 在系统中找到重复文件                                    |
+| [minimum-time-difference](code/最小时间差.md)                | 最小时间差                                    |
+| [next-greater-element-iii(code/下一个更大的元素 III.md)                | 下一个更大的元素 III                                   |
+| [single-element-in-a-sorted-array(code/排序数组中的单个元素.md)                | 排序数组中的单个元素                                    |
+| [complex-number-multiplication](code/复数乘法.md)                | 复数乘法                                    |
 
 
 
